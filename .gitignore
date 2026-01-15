@@ -1,0 +1,12 @@
+# SolidWorks temp / backup files
+*.bak
+*.sldtmp
+*.swp
+*~$
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
