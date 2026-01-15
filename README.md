@@ -37,9 +37,9 @@ Assemblies → .sldasm
 Parts → .sldprt
 Drawings → .slddrw
 
-📌 Do not move files after cloning — SolidWorks assemblies rely on relative paths.
+Do not move files after cloning — SolidWorks assemblies rely on relative paths.
 
-# 👀 View-Only / No Editing
+# View-Only / No Editing
 If you only want to view the project:
 
 You still must clone, not download ZIP
@@ -50,7 +50,7 @@ Do not save changes or rename files
 
 Optional: Use eDrawings for lightweight viewing (assemblies + parts)
 
-## 📁 Folder Structure
+## Folder Structure
 ```bash
 LarcCAD_2026/
 ├── Assemblies/   → Robot assemblies (.sldasm)
@@ -58,7 +58,7 @@ LarcCAD_2026/
 ├── Prints/       → Manufacturing files (STL / DXF)
 ```
 
-## 📌 Notes
+## Notes
 - This repository uses Git LFS for SolidWorks files
 - Folder additions will not break the project
 - Clone to your PC and open assemblies from the cloned folder
